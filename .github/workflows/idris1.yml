@@ -1,6 +1,7 @@
 name: Idris1 on Ubuntu
 
 on:
+  workflow_dispatch: {}
   push:
     branches:
       - '*'
